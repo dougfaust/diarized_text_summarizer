@@ -3,14 +3,7 @@
 *** Diarized text summarizer README.md
 -->
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
+<h3 align="center">diarized text summarizer</h3>
 
   <p align="center">
     project_description
@@ -123,8 +116,11 @@ After prerequisites are installed, clone this repo
 To run on example meeting transcript data, work through the jupyter notebook:
 
 To adapt to a new purpose 
-2. change the regex pattern in 
-to strip the headers or names from your diarized text source.
+
+1. catenate data into a single file with time-ordered entries (i.e. the sequence will not be inferred from any timestamps)
+   
+2. change the regex pattern in to strip the headers or names from your diarized text source.
+
 3. edit extracted text lengths here to a suitable length, limited by the huggingface token limit until coherent summaries are produced.  I wish there was a science to that, but quality of summaries is pretty subjective.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -158,8 +154,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+n/a
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -176,11 +171,3 @@ Project Link: [https://github.com/dougfaust/diarized_text_summarizer](https://gi
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
