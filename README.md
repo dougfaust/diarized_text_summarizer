@@ -52,14 +52,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This library provides tools to do "extractive" and "abstractive" text summarization.  The primary goal is a single workflow that allows large amounts of tagged and diarized text such as 
+This library provides tools to do "extractive" and "abstractive" text summarization.  The primary goal is a single workflow that allows summarization large amounts of tagged and diarized text such as 
 
 * email and social media threads
 * transcripts with multiple speakers
 * A/V scripts
 * chat logs
 
-to be parsed into single, coherent, summary.
+to be parsed into single, coherent, document.
 
 Adapting this to a new purpose simply requires changing extracted text size to be compatable with token limits and changing the parsing or regex to accomodate the thread headers used in the diarized text.
 
