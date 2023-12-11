@@ -1,0 +1,375 @@
+Willy:                                                 00:02                                             And we have our weekly, uh, product marketing meeting. Uh, so I left, uh, I read only there on a agenda item on a Q2, OKRs. Um, if you have other thoughts or ideas on our OKRs, you know, add them to the doc or to the issue there you can do. Uh, maybe not to that issue that might be specifically about command of the message. Uh, there is an OKR epic somewhere, and if anybody can find that and link it, we can add either thoughts on OKRs there. Uh, so first topic that I would love to chat about is we have some seats for Forrester and Gartner. Uh, so normally these, uh, the logins to be able to log in and grab a report anytime you want, and there might be some other benefits there. I know that Cormac and Cindy, you have had logins before. I've, I've never had a login for either of those platforms. Are there any other kind of benefits to having a login that you of other than, "Hey, I can go grab a, a report whenever I want one?"
+
+Cindy:                                                 01:10                                             That's the main thing?
+
+Cormac:                                                01:11                                             Well, there are some, so it depends on which, um, Forrester has, I, I think some more interesting things than Gartner has that are non, um, that are, that are non they're research related, but they're non report related. So Forrester has, I believe, although says something, but I haven't looked recently, but they used to have inquiry analytics that, um, where you could go in and find out who was searching for what, and it's kinda like a keyword research tool that you could look and see, um, what people in different categories of company and different, you know, different sizes and different industries we're searching for.
+
+Cormac:                                                01:49                                             So that was really helpful. And, uh, and you could, you know, you could track your competitors and you could track, uh, topics and that sort of thing. So that kind of stuff was very interesting. Uh, Gartner has, um, I believe some similar tools, uh, they have a search analytics tool I think is what they call it, and they will give you some of it. But, uh, Forrester, I believe gives you more information about the actual, uh, inquiries. Uh, and Forrester, there's also a data. Um, there's a data product that I don't know if we bought from Forrester. That was super, super cool. Um, but it was a lot of money. Um, yeah, just have to run [crosstalk 00:02:25].
+
+Brian:                                                 02:26                                             I remember hearing a data and analysis offering from Forrester and there were complaints about it being hard to use.
+
+Cormac:                                                02:33                                             Yeah, like techno-graphics is the, the Forrester. You, you get much broader access to the, to the core data than you, than you would otherwise. And, um, there's also a, like, there's like a buyers journey tool they have in there as well, that talks about which personas engage with which types of content at which point in the journey, things like that. They, they're kind of mean. Um, but again, um, some of those aren't super interactive, so we could just have someone log in there and check it out and see what's going on.
+
+Willy:                                                 03:04                                             Yeah, that's uh, that would be the general idea is, uh, we have some licenses including some folks on the call today, have a license which you could keep, or we could shift around and we've had other kind of staffing changes. So the, the net of it is for this team in- including competitive, uh, we are looking at three Forrester and three for Gartner. And I'm just curious if anyone is like, would like to raise their hand and say like, "Yes, I think that would be helpful and I would, I would probably log in and use that first hand."
+
+Cindy:                                                 03:36                                             You know, when in the beginning, when, when it was a smaller team, we were using, we had put the passwords, the user ID and the passwords in one pa- in one password as a team thing. So we were sharing them, I don't know if that's-
+
+Cormac:                                                03:52                                             Gart- Gartner will get you for that. I, I worked somewhere where they will check IPs and they will spank, they will spank your hand if you, if they see too much of that.
+
+Willy:                                                 04:00                                             Yeah. That's part of our, uh, you know, ULA and, um, our agreements are, uh, what do you call it, TOSS. Part of our TOSS with, with the, you know, those licenses is that we don't share them. So, uh, so from a budget perspective, it's not necessarily a concern. Um, so if, uh, if you wanna log, if you think you would use a login, like we can get you a login. And if your use case, like my use case was kind of like every once in a while, it'd be helpful for me to be able to see a report or to hear a summary of what somebody else had logged in and done. Um, if that's your use case, then we can kind of continue that use case, have a login. Um, but if anyone on the call, uh, this is the, uh, search analytics.
+
+Cormac:                                                04:48                                             So yeah, this is search analytics. So they don't give you the inquiry breakdowns the way that Forrester at least used to. Um, and that was super fun to just dig around it before, but you, you can do things like, you know, search for DevOps or, you know, search for the lab. I mean, some, and this, there are things here that could certainly be helpful as we're planning, you know, like GTM, uh, keyword stuff, but.
+
+Willy:                                                 05:15                                             I'll, I'll table for the moment since no one seems like to be, uh, extremely passionate. Like, "Yes, I really want that." Uh, if you think about it later and you think like, "Oh, you know what, I think I could use that. I would like one of those licenses" just, just let me know.
+
+Parker:                                                05:28                                             Yeah. Um, just, I, I just, can't say for certain that I have, I'm gonna have the time to get the value of it, right? To sit down and do that right now. We've got way less people than work to do. So maybe when things smooth out a little bit, um, I can think about some of that.
+
+Samya:                                                 05:43                                             I also think that, uh, sometimes when we do need a report, Ryan does share that.
+
+Parker:                                                05:49                                             Yup.
+
+Samya:                                                 05:49                                             So, um, if we have a few seats and if, uh, if you could, if then we need it, if the report would be shared, I think that's, that's sufficient from my point of view, at least.
+
+Willy:                                                 06:01                                             Yeah. I'll, I'll have a login and if you need a report, I can always, I can always pull a report, um.
+
+Cindy:                                                 06:06                                             Does, um, do the product managers have access?
+
+Willy:                                                 06:10                                             They, they do. And so we have, uh, we have several, we have several licenses and there's several folks in product that do have direct access. Um, okay. I put an agenda item and I can't remember, we were maybe on Parker's social call and started talking about the definition of enterprise. And so Cormac, I just put an agenda item here and I don't know if that brings a bell or if you have any [crosstalk 00:06:36]
+
+Cormac:                                                06:36                                             Yeah. So, uh, well, I, I actually used it to sidestep the whole issue with the, so in the release post, um, we initially had a theme of, uh, it was an enterprise scaling enterprise DevOps was a theme. And when I mentioned that I saw a couple eyes open wide, including yours and were like, well, we should talk about how the company had said feel about the word enterprise, like do that after I remove the term enterprise from the theme. So I did that. So thank you. Um, but that was, uh, that, that was it.
+
+Cormac:                                                07:08                                             So, I mean, I, I know we talk about enterprise readiness or we have in the past, I haven't, I haven't seen us talk about that much lately. Um, I mean, what we're talking about, things like AHDR, that sort thing, but, um, up applying, applying it more broadly to what we do seems like it, it could be a little messy, I guess, because we're, when we're selling to people who aren't enterprises or maybe, and there are companies that think of themselves as enterprises that we don't consider enterprises, like the 1000 to 2000 employee ranges totally big market for us. Um, so yeah, I don't, I don't know I'm rambling but.
+
+Brian:                                                 07:47                                             2001 plus. Yeah.
+
+Parker:                                                07:49                                             Yeah. But we, we seem to be a little bit farther from the market on this though. Like we do, like, we are with a few things, like in the market, we hear the word enterprise and sure it doesn't mean, one like 10 person band of company size, but like in the market, even when analysts talk about it, they're larger corporations, they've got more, re- more string regulations, more complex tool chains, all the things that we talk about, like I've yet to be, they haven't been true, right? So just because we have a band of a specific number of seats, um, I don't know. It feels like we shy away from that word a lot when the market does not. Um, and that's, that would just be the only thing that, that pops up to me.
+
+Willy:                                                 08:27                                             Yeah. I would definitely encourage us to have the rule, which is like on our use case page. And we probably should add this Axiom, or I, I call it a rule, but maybe guideline, add the guideline and more places which is, uh, when we talk to the market, use the language of the market.
+
+Parker:                                                08:47                                             Yeah.
+
+Willy:                                                 08:48                                             So when we talk internally, we have internal GitLab language and we have a messy Fu, uh, which if you're not familiar with the acronym is I forget it stands for something, but it's basically, uh, there's a page in the handbook. I don't know if anyone knows where that's at and could link it, but with our internal language, the goal is to have, like, when you use this word, it means one thing. And one thing only, uh, the idea is to avoid confusion. So for example, if we say that enterprise is, let's say a market segment, then it only means that, and we don't use it to refer to something like a license name or tier name or something else.
+
+Willy:                                                 09:31                                             So it's messy Fu is about trying to like disambiguate between two concepts. And so you choose a unique word for each concept. Um, honestly I think this is why, um, we tried renaming source code management to VC&C, which I've stated over and over again, how wrong of a decision. I think that is.
+
+Parker:                                                09:55                                             Mm-hmm (affirmative).
+
+Willy:                                                 09:55                                             And the reason why is because it was a messy Fu decision to disambiguate from the SCM team in product. But the problem is the use case is not about talking internally. The use case is about talking to the market and we talked to the market, we choose market language. That's why I kind of disagreed with that call [crosstalk 00:10:14].
+
+Brian:                                                 10:15                                             So we back to the rub-
+
+Parker:                                                10:16                                             Sometimes.
+
+Brian:                                                 10:17                                             Yeah. And back to the rub, because, uh, we've got like enterprise as a use case or a solution in our current rendition of the website. We listed as a-
+
+Willy:                                                 10:26                                             So there...
+
+Brian:                                                 10:26                                             ... as a solution, I believe, but also in the, uh, release posts, I shied away from using the word enterprise in a headline for similar reasons. And it was PR and corporate who were twisting the arm like, "Hey, can you make this about enterprise DevOps?" And like, sure, it's about that. We're not gonna call it that in this case, but maybe that was the wrong call because that's a marketing piece, right? The release post is marketing.
+
+Willy:                                                 10:51                                             So that's another rub. I would argue that the part we you write is marketing. I would argue that the release post itself is not, and shouldn't be it's, it should be releasing notes, uh, which is what every other company does, and it's, that's not a marketing function. Uh, all that to say is I would say if, um, I would agree with that. Like if, um, the market is talking about enterprise DevOps and we want to get SEO for that term, and we want analysts that talk about that. We want people that are looking for that term to look at our stuff. We should use that term, but I think maybe Cormac and Brian, I don't know if you had this feeling like enterprise tends to mean larger complex. And so if it's a, if it's a feature capability that's designed for large and complex organizations, then enterprise would probably fit. But if it's not, if it's something that is across market segments that maybe we don't use the word enterprise even, and this is only considering the market not caring about what our internal terms are.
+
+Cormac:                                                11:51                                             Yeah. Yeah. I think there, there are certain things that are definitely of interest to every large enterprise and potentially of great interest to, to companies that are smaller. Um, so like AHDR, like that kind of stuff, like if you're big enough, somebody's gonna care that things don't go down and you have a lot more on the line and all that, but that could be very important to a small company as well. It might not be, if it's one developer, even if they're on ultimate, they may not really care 'cause they'll just keep working on their desktop or, but, um, and then there's that, and then there's the aspirational thing as well. Uh, like when, during the mid-market, uh, the SMB market QBR, um, Ryan O'Neil several times said that, uh, every SMB or mid-market company wants to be an enterprise.
+
+Willy:                                                 12:41                                             Mm-hmm (affirmative).
+
+Cormac:                                                12:41                                             And they want to, they want that vision of we're going to get you there, we're going to be able to take care of you when you get here. So there's that idea that we are ahead of the market and we're ahead of their particular needs. We'll, we're ready for them. Um, whether they call them, whether they, they call that end state enterprise, I don't know, like that's, that's something we should probably dig into.
+
+Parker:                                                13:05                                             Or could be just revenue, right? I mean, all I know is I hear all the time enterprise thrown around and we intentionally and consciously shy away from it. And I know Sid doesn't like the turn either. Um, and like on the pricing page, we had to remove it and stuff like, but I don't know. I feel like we've rotated a little bit too far and like we're being unnatural with how we speak, because we're worried about our internal staff. And when we're talking to people and the customers in the market, we should feel very free and confident to use the language, what they say and not have to like walk on eggshells here. I know in some, in some areas that's, I guess if to get down to bras tax, the way I feel about it in, in a way, and there may be other terms like this, I'm not sure this is just the example that I've been, been able to grasp onto.
+
+Brian:                                                 13:45                                             I mean, I'll definitely say like our product direction pages use the term enterprise pretty liberally.
+
+Parker:                                                13:50                                             Definitely.
+
+Brian:                                                 13:50                                             So if we using there to describe our product planning.
+
+Parker:                                                13:54                                             Yeah,
+
+Willy:                                                 13:54                                             Yeah. And there's a guidance. And, uh, funny enough, I wrote that section of the handbook and I forgot about it. So whoever linked that, thank you.
+
+Parker:                                                14:02                                             Nice.
+
+Willy:                                                 14:03                                             It's, and, uh, and it's not just guidance to sales that there's a tier page it's linked on number 4E and that's, uh, that's that's messaging. So that's for all of sales and marketing. Uh, so there, it recommends do use the word enterprise, talk about enterprise ready. So that is our official, you know, product marketing messaging is, do use the word enterprise to describe a market segment.
+
+Parker:                                                14:26                                             Where are we at? What page?
+
+Willy:                                                 14:27                                             Uh, it's a 4E in the, in the agenda if you click.
+
+Parker:                                                14:32                                             Oh, okay. I was on, on the messy Fu page. Sorry, okay.
+
+Willy:                                                 14:34                                             Yeah. So using the word enterprise, you know, so describe a market segment, get live as many enterprise customers. Um, so there, there's one other component that I'll, I'll add to the mix, which is we used to have community edition and enterprise edition, and that muddy's the water just a little bit more, it's already muddy and it gets a little muddier, um, because we still have these, um, we call them distributions. So there's one bit of source code, and then when we pack up that source code and distribute it, you can download it as a package that, those two district are called community edition and enterprise edition. So the community edition is that package of software that only has the open source bits of code.
+
+Parker:                                                15:21                                             Mm-hmm (affirmative).
+
+Willy:                                                 15:22                                             Of course, the enterprise edition has all of the code, but you can still download that enterprise edition and use it without a license. And you just get access system of the free stuff, um-
+
+Cormac:                                                15:33                                             By the way that, Willy, you also wrote a bit on that in the same page. So I will link that as well.
+
+Willy:                                                 15:38                                             Yeah. That whole, if you read that page on tiers that, uh, that has a lot of info on that. I, I, the, I wrote the first version of that page when we got rid of CE and EES tiers. So we, CE used to be the bottom tier and we changed the name from CE to core, or maybe a, we changed it from CE to Libre.
+
+Parker:                                                16:00                                             Yeah.
+
+Willy:                                                 16:01                                             And then we changed it from Libre to core, whatever. But anyway, that's the first version of that page. This page has been updated, honestly, I recently, um, Faruz and I worked on a recent update to this page. If you look at the Git history and Sid merged that most recent change. Um, so this is, this is up to, this is an up to date page on tiers and tier messaging. Uh, and so I think to summarize the example for concepts that are internal for our internal teams, for our internal language and for official GitLab names of stuff, don't use the word enterprise and stick to the messy Fu terms.
+
+Parker:                                                16:37                                             Yeah.
+
+Willy:                                                 16:38                                             Kind of follow GitLab practice when we're talking to the market, let's use the language of the market, which includes enterprise in those places where the market uses the word enterprise. Does that kind of sound right to y'all?
+
+Parker:                                                16:51                                             Yeah, but when our, on a webpage or we be talking to the market on a, you know, on a marketing page, on a solution page, on a pricing page, you know, and a blog post talking to the market, you know, like where's that line?
+
+Willy:                                                 17:02                                             My guidance would be yes. In the handbook use internal terms-
+
+Parker:                                                17:06                                             Okay.
+
+Willy:                                                 17:06                                             ... as much as possible, on a web page, on a marketing page, we're talking to the market on a marketing page.
+
+Parker:                                                17:12                                             Sure.
+
+Willy:                                                 17:12                                             If anyone leaves the comment and says like, "Hey, let's not use this term." Um, listen to the feedback. Maybe they're saying, "Let's not use this term because there's another page we want the SEO optimized for it" or whatever.
+
+Parker:                                                17:24                                             Sure.
+
+Willy:                                                 17:24                                             If the, if the argument is let's listen to the market and tailor this page, the audience, let's do that. If the rationale is, well, we don't use this term, I think it's completely fair to push back and say, "Well, we're talking to the market. Let's use market language."
+
+Parker:                                                17:41                                             Cool.
+
+Willy:                                                 17:42                                             And then the final guidance, "Oh, we don't wanna be insubordinate." Right?
+
+Parker:                                                17:46                                             Yeah.
+
+Willy:                                                 17:47                                             Like if, if someone just, if someone just tells us don't use this, and oh, okay, that's fine. We'll just take it out. We can push back but at the end of the day, you know.
+
+Parker:                                                17:56                                             Cool.
+
+Willy:                                                 17:56                                             Is it, is that helpful, uh, Cormac for kinda what you were [crosstalk 00:18:00].
+
+Cormac:                                                18:01                                             Yeah, absolutely.
+
+Willy:                                                 18:02                                             Cool. Well, I don't know what the next agenda item is because Google logged me out right at this very second.
+
+Parker:                                                18:11                                             (laughs). It is-
+
+Willy:                                                 18:11                                             Well opportunity from Natasha.
+
+Parker:                                                18:13                                             Yeah.
+
+Willy:                                                 18:13                                             This is really cool. Uh, so I wanted to chat about this as a team. Uh, there's some issue somewhere about, uh, a byline. This is in conjunction with KUKA neu. This is just cool. I just gotta share this like Natasha and Natasha particular is pretty awesome. I mean, her team is awesome, but we did have one opportunity for like, we have a sponsorship. So we get one, you know, byline that we get to write one article that gets placed in the media outlet. But during her time at CFC, CNCF, you know, in the Linux during her time at Linux foundation, Natasha made it so that there could be like a community article. So in essence, we get like two bites at the apple. We have an opportunity with KUKA neu to publish two articles.
+
+Parker:                                                18:58                                             Hmm.
+
+Willy:                                                 18:58                                             I just thought that was very cool. So Natasha and I were talking about this and she says, "You know, if you wanted, we could do a monthly column in the new stack." And I don't know if any, and any of you all ever done this. Um, the last time about my career, I had a monthly, uh, you know, a, a monthly article, I contributed to a, a, a press outlet that was popular in my industry. Uh, it led the keynote talks that I gave. It was a very prestigious thing. Um, so I didn't wanna pick that one up, but I, uh, what did you all think about as a team? I mean, this involves like, you know, research, researching and writing, uh, an article for, and it's the new stack. The new stack talks about DevOps, Kubernetes it's, um, everyone on this team could, could write an article that would be meaningful on that. Any kind of thoughts on us maybe picking this up as a team, if there's six of us, it would, we'd essentially be contributing to like two articles in the next year.
+
+Cindy:                                                 20:01                                             I think it's a good idea.
+
+Brian:                                                 20:04                                             Yeah. I love it. When I took a look, uh, they've covered just about everything. So many, so many articles about GitLab and, and, uh, everything unique about us. So there isn't necessarily a lot of low hanging fruit other than the stuff we're very currently working on, but the sort of like all the old song and dance, uh, all those new things about GitLab to most people are definitely not new at this website.
+
+Cormac:                                                20:27                                             But I think it's also a good way, um, to potentially get the word out there about things that aren't covered in the GPMs, uh, like the, the first thing on there. I, well, not first thing, but on the page, uh, when I went there this morning, there's, uh, a, what is MLOps? And, um, I think there, there, it, it could be an interesting way to tease out. I mean, not every month, but it could be, if, if there's something like that, where we're thinking of making a push and we wanna test the waters, we want people to know it's something they can do with us. You've got like an interesting use case in the, not in the GitLab sense of the word, but an interesting way to people are using our product. That isn't necessarily the way we're selling our product. It could be a, a good way to get stories out there too.
+
+Parker:                                                21:12                                             I was gonna say, go to market would be a good idea to leverage for this kind of thing, too.
+
+Cormac:                                                21:17                                             Yeah.
+
+Parker:                                                21:17                                             Especially while we're short on people, being able to leverage our teams is gonna be great. Um, so I think that would be awesome to weave into these motions. Um, 'cause we have everything we need to make the something special and compelling if there's not low hanging fruit and we're, you know, working really hard to get those off the ground.
+
+Willy:                                                 21:34                                             Yeah. And I, I agree with both of those. I think this is a pretty, we have wide, um, leeway to write kind of what we want there as long as it's interesting to the audience. Uh, so yeah, I think this could be okay. I have my go-to-market motion. My go-to market motion is CICD and this is kind of our take on it. And as part of our go-to market plan and all of the content we're creating, uh, we're gonna spend some time writing an article for the new stack and that could even be, you could write it, but you could involve your team in contributing to it and put that to up as a team. That's a great idea. Or, "Hey, there's this new topic" something like MLOps, we don't have a GTM motion around it, but um, I'm interested in it and the market cares about it and GitLab's doing stuff with it or has some surface area there. I'll write an article on that. Um, all of that is I think great.
+
+Willy:                                                 22:21                                             So I'll, uh, I'll go back to Natasha and I'll start, we'll start an issue. And um, I envision this being kind of like schedule, we sign up for a month kind of like we do for release post. Um, so I'm excited about that. Uh, Brian, you have an agenda item on metrics.
+
+Brian:                                                 22:41                                             Yeah. Darrel had shared a link to the key meeting video in the marketing all hands. And I just noticed that it had like one view (laughs). Whenever you're on a YouTube and it's got one view, it's always wait, was that somebody before me? Or am I the one? (laughs). Um, but, but that's not to say it's not interesting actually, I, I, I did fast forward. I will admit, uh, jumped to the strategic marketing part to see how we were doing and uh, we're doing awesome. And I just realized that I don't really know why, and I don't really know how to dig in to figure out why, like where do I actually find, uh, all the numbers that are rolling up to those views? Um-
+
+Parker:                                                23:20                                             Yeah.
+
+Brian:                                                 23:20                                             ... worth taking a look though, he kept the structure introduced on, you know, number of team members and views per team member and, and looking at it for strategic marketing broadly as opposed to, to only each individual, uh, team within. I think that's all good. Um, particularly because we do tend to swarm, you know, there are reasons why one, one of the other group is down in a given time it's 'cause we're all helping them out or not helping them out there, helping the others out, that kind of thing. Anyway, all that's to say, it looks really good. And I want to know why. And there's also this slide about pivoting to, uh, pipe to spend ARR influenced per spend. But that's not exactly done in the sense that the KPI is still views the comparison PI, so the comparison metric is piped to spend. And I wasn't quite sure like how that's gonna be used in the key meeting or in general, or is there a point in time where they're gonna pivot and stop looking at views or are they just gonna look at both. I wasn't sure about that either. Um, but there wasn't actual data on pipe to spend that I saw for strategic marketing either yet.
+
+Willy:                                                 24:31                                             There's, there's not, but I can share some context around that.
+
+Brian:                                                 24:35                                             Thanks.
+
+Willy:                                                 24:35                                             Uh, which is I added... So I added agenda item there, which is the dashboards that are linked in the deck for that key meeting. And that key meeting deck is linked in the GC, which Todd has his GC today. Uh, and, uh-
+
+Brian:                                                 24:50                                             Mm-hmm (affirmative).
+
+Willy:                                                 24:50                                             ... those are the, I, I linked those two, uh, Sisense dashboards and I highly recommend familiarizing yourself with these dashboards. Um, of course, uh, you know, when Todd does his key meeting, like, you know, that's a good way to like, just know what all those things are and if you don't know what those are or what a acronym is or whatever, there's several acronyms. I don't know in there, I plan on maybe asking some of them in the key meeting today or in the group conversation. The point is let's familiar ourselves with, selves with these metrics, uh, and in I, an ideal world I think that this team, um, should be, should be looking at these types of metrics, uh, and thinking about how the business is doing and where we need to optimize and how that has an impact on things like messaging and permis- positioning and go to market strategy.
+
+Willy:                                                 25:40                                             Um, so from that perspective, I will share a slide that I've have probably told a couple of you about, and every time I talk about it, I can't find it. So I finally found where I, I've actually made a new version of it 'cause I can never find the old one. So, uh, so this is the, this is the metric slide from Todd's key meeting deck and here are the old KPIs and then these ones are new. So one thing to keep in mind the metrics are changing for everybody. Uh, and so honestly I don't even know how some of these other metrics are figured out, but the proposed metric is, is ARR influenced ARR, which is not defined, and this is an active conversation that Todd and I have to define what that is um-
+
+Brian:                                                 26:30                                             So it's not pipe it's actually closed one or, yeah.
+
+Willy:                                                 26:33                                             Well, so here's the way I, this is the way I think about product marketing. So if you look at this old school version of the, the KPIs is it's the funnel, right? I don't know if Todd did this on purpose, but like you've got views at the top.
+
+Parker:                                                26:47                                             Yeah.
+
+Willy:                                                 26:47                                             And then views turn into inquiries and then we qualify those, they turn into MQLs and then those turn into uh SAOs and then SAOs go over to sales and you look at closed one. And so, um, this is kind of a, like SAOs is what Todd's responsible for. I mean, obviously there's a lot of metrics, a lot of things Todd's responsible for, but at a super duper simplified, maybe oversimplified model, Java of marketing is to hand over high quality SAOs to sales. And so you would want a high number of them, so you have a good pipeline and you would want, uh, them to be high quality. So there's a good conversion rate of SAOs to close one, right?
+
+Willy:                                                 27:27                                             It's, it's sales is a sales job to close them, but like if their close rate is, is low, it could be maybe sales, isn't doing something right. But it could be, 'cause we're just chucking wood. So if you think about this, um, views is completely the wrong metric, we have beaten this horse in, into of the ground on this meeting. Um, but the reason it's the wrong metric is because this is, this is how we have all done product marketing in other places, right? And, uh, we don't just work at the top of the funnel, like product marketers work across the whole funnel. And in fact, not just across the whole funnel, but like even with sales, like this is why we do sales enablement, right?
+
+Parker:                                                28:07                                             Yeah.
+
+Willy:                                                 28:08                                             Um, this is why we do customer marketing and eventually like we don't, we don't even focus a ton a lot on like churn a little bit on renewals, but that would be in our purview as well. Like the enablement that we create, the materials, the training, um, when we're thinking about our product or our go to market, you know, there's only one product at GitLab. So for you it's a, you go to market motion or your use case. So the thing, you know, that your domain that you own is what you should be thinking about. Now, the cool thing about this is I, uh, have talked about this concept with Todd and Todd's like, "Yes, this is how I think about product marketing as well." Uh, and I've talked about it with Jackie because Jackie and I had nice conversation. I'll talk, I put another bullet point in the meeting. Um, but we talked a lot about Jackie's team and I'll share that in a moment if we get there with the bullet point, you can read the, the notes there.
+
+Willy:                                                 28:57                                             Um, but the nutshell is she's like, "Yes, this is how I view product marketing as well." You are working across this like entire customer life cycle. Um, so that kind of brings us back to this. ARR influenced, the idea is if you work across an entire funnel, what do you measure ultimately measure the thing that comes out of the end-
+
+Parker:                                                29:20                                             Yeah.
+
+Willy:                                                 29:21                                             ... which would just be like, you know, revenue. So we used to IAC used to be a revenue metric, now it's ARR. Um, but as product marketing just responsible for ARR. No, because we work like this. We're like an overlay. I really like Cormac's analogy, if he hasn't shared it with you about how, um, product marketing buffs, buff is like a video game or AD and D term, that means like make somebody better, right? So if you have like a, if you ever heard of dungeon and dragons where you have like, you know, you may have a character and they have like 10 strength. So if you roll the dice, you get 10 points of strength, but if you have a plus two battleax, you have 12 strength to hit with. So product marketing is kind of like that buff, that kinda like that, plus two to the other teams. Um, so-
+
+Parker:                                                30:15                                             So you say you're still figuring these out though. Sorry to, to, so, 'cause I was [crosstalk 00:30:20].
+
+Willy:                                                 30:20                                             To, to bring it down to kind of like the bottom line is like the reason this is ARR influenced is because ideally this, this would be a way to measure our contribution into all of these teams.
+
+Parker:                                                30:33                                             Hmm.
+
+Willy:                                                 30:34                                             Candidly, I don't know how to do that. Um, I think that's pretty tricky, right? Like,
+
+Parker:                                                30:39                                             Yeah.
+
+Willy:                                                 30:40                                             ... if you know, demand gen runs a campaign and they don't have any product marketing help at all, uh, which would almost never happen 'cause they'd always be pulling our messaging from the, from at least our messaging doc somewhere, right?
+
+Parker:                                                30:54                                             Yeah.
+
+Willy:                                                 30:54                                             Um, you know, like how much, how much did that messaging? How much did them knowing who the right persona was and our bringing our customer know and us, um, making sure that they're targeting the right persona and they understand everything they need to know about that target audience so that they run the right campaign so that they can make the right decision about like how to run the campaign and how much spend and what channels to use and all the decisions they need to make. They take our research and our, you know, the things we generate as inputs. And the question becomes like they're measured on their output, which is like closed one attribution, but how much of our attribution is attributed to their attribution? That's what I'm thinking, thinking about and trying to solve for now so.
+
+Parker:                                                31:38                                             Do we have any say, do we ever know about spend that was the thing that I was worried about, 'cause we're being divide by something that in my purview I've never had any say or impact on or, and so like that could really botch some metrics, right? 'Cause we don't have any control over spend at all.
+
+Willy:                                                 31:54                                             I also don't understand where that, where that divided by spend comes from just candidly.
+
+Parker:                                                31:59                                             Okay, cool.
+
+Willy:                                                 31:59                                             And I have talked about ARR, um, influence this ARR influence. And I think there's even an issue somewhere that talks about ARR influence.
+
+Parker:                                                32:08                                             It makes sense, that part makes complete sense to me. I was just worried about cutting it by something that we have no control over. Um, and it could potentially just vary, vary across groups.
+
+Willy:                                                 32:17                                             Well, this would be like the spend of our team so.
+
+Parker:                                                32:20                                             Uh, okay. Not like think [crosstalk 00:32:21].
+
+Willy:                                                 32:20                                             Like we've given X amount of budget to strategic marketing. This is, this is probably program budget-
+
+Parker:                                                32:27                                             Okay.
+
+Willy:                                                 32:28                                             ... but it could include people budget. I actually, honestly, I don't know.
+
+Parker:                                                32:31                                             Okay, cool.
+
+Willy:                                                 32:31                                             You know, the money we spend on, uh, analyst reports and, and the work, all the work that we do.
+
+Parker:                                                32:38                                             Gotcha. I was thinking a completely different, um, budget. So I'll just hold tight until we know, cool.
+
+Willy:                                                 32:43                                             So it's just, it becomes inefficient. So we're, we're worried more about efficiency than we are about like the final output. We do care about the final output, but we want to be efficient as we do it. And that's really important as we are a company that is preparing to someday go public, right? As a private company, and we're trying to get ready for that. We care about that efficiency because the, um, the, the market does the, the wall street cares about efficiency. So anyway, uh, don't wanna harp too long on that, but I just, I thought this, this conversation I thought I wanted to share with the team, 'cause I've had it with many of you and I thought it would be encouraging to hear that other folks in marketing see our team the same way, so that should help with collaboration. Uh, and then this, we just need to figure out how we measure ourselves. Candidly, I don't know.
+
+Samya:                                                 33:35                                             So-
+
+Willy:                                                 33:36                                             Yeah.
+
+Samya:                                                 33:36                                             ... quick question there's in your mind is a ARR influenced different from the overall ARR?
+
+Willy:                                                 33:46                                             It's, it's only different in the sense that it's, it's our contribution to that ARR, right? So it's, um, honestly, I, I probably would-
+
+Samya:                                                 33:58                                             It's, it's tough to measure that, right? So let's say you're doing a sales enablement or an SDR enablement, so, and you know, 300, um, people from the sales team are attending it. So shouldn't we say that everything, all the revenue that's influenced from those people should be attributed to, uh, and that's-
+
+Parker:                                                34:17                                             Yes, we should.
+
+Samya:                                                 34:18                                             ... that's the revenue of the company.
+
+Willy:                                                 34:20                                             To- totally agree. That's that is my stance, and I need to sell that case-
+
+Samya:                                                 34:26                                             Okay.
+
+Willy:                                                 34:26                                             ... to the rest of the order. We, we, as a team need to say, um, "Hey, look, we work across all of these things." We, if you just take the final number and part of the way I would argue it is if you just make a product marketer, product marketing manager, responsible for that final number, then they're gonna prioritize their work accordingly, right? If the funnel is humming along and everything is cruising along, but there's this inefficiency and like, you know, SAO quality, we're probably gonna go do a bunch of SDR enablement to go help that. We'll probably prioritize that because we care about the final number or similarly, if, if like the funnel's looking pretty good, but we don't have enough stuff going in at the top. We probably are gonna care a lot about views, right?
+
+Willy:                                                 35:09                                             We're gonna go and create some top of funnel content and enable people to create top of funnel content and buff people to create top of funnel content. So that's my argument too Samya, I completely agree. I think if we're just responsible for the number or we get measured on the number product, marketers will go and figure out the right thing to do. Um, it's just tough of course, because we don't own that number outright.
+
+Samya:                                                 35:32                                             Yeah.
+
+Willy:                                                 35:32                                             Like there are things outside of our control that greatly impact that number. So, um, yeah, five minutes time. Uh, let's just move on to the next thing, which, uh, you can click on the thing, great conversation I have with Jackie, um, something y'all should know and announcements coming from her. So you'll hear about this more, but it was enlightening to me. I thought of MPM as project managers. I was like, they project manage the campaign and that's the main value that they bring, they're awesome at it.
+
+Willy:                                                 36:04                                             I thought that was a compliment, but in reality, that is not how that team wants to be viewed. And that's, um, that's kind of like saying product marketers, they create great content and we're only content creators and reality. It's like, well, I do all of these other things. So you can read the job family for campaign manager and you can see, like, they really are thinking strategically, they're thinking about channels. There's a lot of, there's a lot of work that defines what they do as a role and then project. Management's just a thing that they're good at and is a component of it. So go and check that stuff out. Any questions about that for now? Uh, Samya, you have an agenda item eight?
+
+Samya:                                                 36:45                                             Yeah. So I'm trying to figure out all the analysts mentions and reports that we can fall out in the pitch deck. Uh, you know, for any event we might require this, all the ones that are available on the pitch deck are, um, reports from 2017, and 2018, which are probably not relevant falling out anymore. I had requested for an update a couple of months ago, but that hasn't happened. So I thought, you know, if it's, it's a small lift, we can, I can just put together a slide, uh, and share that with Ryan, if he can, you know, he can share that. So, um, I went to the analyst page, pulled out the ones that I thought were relevant, uh, to call out in a single slide. So if, if you all have other, uh, points that you think we need to call out, just add a note over here, I'll be putting together a slide tomorrow.
+
+Willy:                                                 37:43                                             And you said you had a request a while back, but you didn't nothing happened with it. What was that request?
+
+Samya:                                                 37:48                                             Yeah. To, to update, maybe you have a single slider or maybe two slides, which actually talks about our latest, um, accomplishment, so does say from an analyst point of view, so that we can include that in a pitch deck, as well as put it in any kind of event collateral that we can, we, we want to use it for.
+
+Willy:                                                 38:08                                             Gotcha. Was that your request or that was a request that came to you?
+
+Samya:                                                 38:13                                             No, it was my request-
+
+Willy:                                                 38:15                                             Okay.
+
+Samya:                                                 38:15                                             ... to Colin's team, uh, at that point in time. And then I think I have an issue open somewhere, I have to go look, but I, I know I added a comment in the pitch deck, uh, to Paul and Brian as well, yeah.
+
+Willy:                                                 38:26                                             Gotcha. And so now you're, uh, course of action is you, you are just gonna go build the slide.
+
+Samya:                                                 38:32                                             Yeah.
+
+Willy:                                                 38:33                                             I think that is-
+
+Samya:                                                 38:34                                             Because it's, yeah. It's, it's not gonna take too much time if I know which ones we can include, I'll just go ahead and put it together. Yeah.
+
+Willy:                                                 38:41                                             Yeah, just make a proposal. Yeah, just go build a slide tag, Ryan to review it-
+
+Samya:                                                 38:46                                             Yeah.
+
+Willy:                                                 38:47                                             ... and then anyone, we, we will add any other thoughts. This list looks pretty good. What do you think Parker?
+
+Parker:                                                38:51                                             Yeah, I was just saying Samya, that's my Samya sign right here. She said, "I'm just gonna go do it. Boom."
+
+Samya:                                                 38:56                                             Yes. (laughs).
+
+Parker:                                                38:57                                             Um, anyway, the only thing I'll comment, I had with CDRA, right? Um, Forrester CI is definitely the most recent one. I saw your note there, um, uh, that we, that we're in that favorable of a position. Um, and then I don't think based on what I heard from Chris 2022 is when they're planning on doing the next wave of that, um-
+
+Samya:                                                 39:14                                             Okay.
+
+Parker:                                                39:14                                             ... type and it'll be CI and CE together, which will be cool.
+
+Samya:                                                 39:19                                             Okay.
+
+Willy:                                                 39:20                                             And then-
+
+Samya:                                                 39:20                                             Yeah, so far I did include the VSDP uh, summary in a single slide. So that's that's anyway, another thing I'm gonna put into back into the pitch deck.
+
+Willy:                                                 39:36                                             I, I see, you know, here Samya about, was there a central place for SKO decks? Um, there is, and I can't remember the name of the system. It was not allowed to be Google drive.
+
+Samya:                                                 39:47                                             It's okay.
+
+Willy:                                                 39:48                                             Uh, and there was like compliance concerns because we had all kinds of certain stuff in there. Uh, and there is a system, but I just can't remember what it's called. Does that sound familiar to anybody else of like, this is the platform where we're storing SKO stuff?
+
+Brian:                                                 40:03                                             Uh, guess the learning management stuff.
+
+Parker:                                                40:06                                             There it is.
+
+Willy:                                                 40:07                                             Uh-
+
+Samya:                                                 40:08                                             Yeah, what-
+
+Willy:                                                 40:09                                             ... anyone know what that's called what called.
+
+Parker:                                                40:10                                             They're called.
+
+Samya:                                                 40:11                                             I was just trying to find some of the work that we had all done for SCO. Um, you, you know, uh, all the decks, but I just couldn't find it on Google drive. So if any of you have a link to that system and can put that here, uh, that would be awesome.
+
+Parker:                                                40:27                                             Oh, I, I did find a handbook page as day one and two and three sessions. I don't know if it has individual here, I'll link to it and we can all look through it.
+
+Samya:                                                 40:37                                             Okay.
+
+Willy:                                                 40:38                                             Yeah. I would say Samya if you ping Chris Reynolds.
+
+Samya:                                                 40:41                                             Okay.
+
+Willy:                                                 40:41                                             Um, she should know what that system is. You can just ask her, "Hey, can I get access to this thing, I just wanna see all the content?" And then anybody who created content for SCO. If you can please link your, uh, deck for SCO for Samya can just link it in the agenda.
+
+Samya:                                                 40:54                                             Okay. Thank you.
+
+Willy:                                                 40:59                                             Anything else for, uh, today? Hey-
+
+Parker:                                                41:04                                             It does look like everything's in there though, like the breakout sessions and stuff. So we should be okay.
+
+Willy:                                                 41:08                                             We're only one minute over, so thank you all for, uh, great meeting.
+
+Parker:                                                41:12                                             Thanks everybody.
+
+Cormac:                                                41:13                                             Bye.
+
+Samya:                                                 41:13                                             Thank you.
+
+Cindy:                                                 41:13                                             Bye.

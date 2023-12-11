@@ -113,13 +113,14 @@ After prerequisites are installed, clone this repo
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To run on example meeting transcript data, work through the jupyter notebook:
+To run on example meeting transcript data, work through this [jupyter notebook](diarization_summarizer_example.ipynb)
+
 
 To adapt to a new purpose 
 
 1. catenate data into a single file with time-ordered entries (i.e. the sequence will not be inferred from any timestamps)
    
-2. change the regex pattern in to strip the headers or names from your diarized text source.
+2. change the regex pattern in to strip the headers or names from your diarized text source in [summaryUtils.py](summaryUtils.py).
 
 3. edit extracted text lengths here to a suitable length, limited by the huggingface token limit until coherent summaries are produced.  I wish there was a science to that, but quality of summaries is pretty subjective.
 
